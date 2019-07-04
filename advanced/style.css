@@ -1,0 +1,14 @@
+header {
+	text-align:center;
+}
+ul {
+	list-style-type: none;
+	padding: 20px;
+	background-color: grey;
+	text-align: center;
+}
+li {
+	display: inline;
+	padding-left: 50px;
+
+}
