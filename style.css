@@ -14,6 +14,8 @@ p {
 
 li {
 	color:#707070;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 header {
@@ -36,4 +38,14 @@ h3 {
 	background-color: #f4f4f4;
 	text-align: center;
 	padding-bottom: 10px;
+}
+.rating {
+	color:#F4B400;
+	font-size:25px;
+}
+footer{
+	text-align: center;
+}
+body {
+	font-family: "Happy Monkey";
 }
