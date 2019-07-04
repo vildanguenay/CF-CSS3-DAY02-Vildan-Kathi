@@ -14,6 +14,7 @@ li {
 
 }
 
+
 #feature {
 	width: 100%;
 	text-align: center;
@@ -25,11 +26,16 @@ a {
 }
 .row {
 	width: 100%;
+	margin-top: 18px;
 
 }
-.column{
+.column {
 	float: left;
-	width: 33.33%;
+	width: 29%;
 	text-align: center;
+	padding: 15px;
+	background-color: #F1F1F1;
+	margin-right: 30px;
+
 
 }
