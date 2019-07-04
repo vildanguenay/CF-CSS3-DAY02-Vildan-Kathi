@@ -4,11 +4,18 @@ header {
 ul {
 	list-style-type: none;
 	padding: 20px;
-	background-color: grey;
+	background-color: #F1F1F1;
 	text-align: center;
 }
 li {
 	display: inline;
 	padding-left: 50px;
 
+}
+
+#feature {
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	background-color: #F1F1F1;
 }
